@@ -1,8 +1,8 @@
 #Basic calculator
 while True:
-    inputString=input("Insert number one?")
+    inputString=input("Insert number one: ")
     numberOne=float(inputString)
-    inputString=input("Insert number two?")
+    inputString=input("Insert number two: ")
     numberTwo=float(inputString)
 
     print("Choose the operation: \n 1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division \n 5.Floor division \n 6. Modulus \n 7. Exponentiation ")
