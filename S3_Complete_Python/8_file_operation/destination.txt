@@ -1,0 +1,8 @@
+Hello world!
+This is a new line.
+Append operation taking place!
+Have a good day!
+First line
+Second line
+Third line
+Fourth line
